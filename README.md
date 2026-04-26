@@ -22,11 +22,11 @@ This is a Python + Pandas based Employee Analytics Dashboard project created for
 
 ## 📂 Files Included
 
-- dashboard.py
+- employees_dashboard.py
 - employees_1000.csv
 - report.txt
 
 ## ▶️ How to Run
 
 ```bash
-python dashboard.py
+py employees_dashboard.py
