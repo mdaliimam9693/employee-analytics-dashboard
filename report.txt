@@ -1,0 +1,54 @@
+Report of Employees Dashboard
+----------------------------------------
+Total Employees :1000
+Average Salary :69993.18
+Highest Salary :119977
+----------------------------------------
+Department Wise Employees Count :
+Department
+Finance      189
+HR           211
+IT           205
+Marketing    204
+Sales        191
+Name: Name, dtype: int64
+----------------------------------------
+City Wise Employees Count :
+City
+Bangalore    212
+Bhopal       217
+Delhi        177
+Kolkata      199
+Mumbai       195
+Name: Name, dtype: int64
+----------------------------------------
+Top 5 salary Employees :
+     Emp_ID   Name Department  Age  Experience  Salary       City Joining_Date
+46     1047  Rahul         IT   41           4  119977    Kolkata   2017-08-30
+791    1792   John  Marketing   39          14  119555      Delhi   2022-03-08
+271    1272  Ankit         IT   48           7  119534     Bhopal   2020-05-26
+974    1975  Priya  Marketing   45           4  119319     Bhopal   2017-02-06
+666    1667    Ali      Sales   28          14  119214  Bangalore   2023-11-15
+----------------------------------------
+Latest Join Employees :
+Emp_ID                1368
+Name                   Ali
+Department       Marketing
+Age                     52
+Experience               9
+Salary               31094
+City               Kolkata
+Joining_Date    2024-12-23
+Name: 367, dtype: object
+----------------------------------------
+Lowest Salary :20136
+----------------------------------------
+Department Wise Average Salary :
+Department
+Finance      69229.322751
+HR           70473.644550
+IT           70069.107317
+Marketing    70656.906863
+Sales        69427.890052
+Name: Salary, dtype: float64
+----------------------------------------
